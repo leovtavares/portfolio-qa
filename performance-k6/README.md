@@ -3,7 +3,7 @@
 <a id="português"></a>
 # Portfólio de Testes de Carga com K6
 
-[![CI/CD Pipeline](https://github.com/realleotavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/realleotavares/portfolio-qa/actions)
+[![CI/CD Pipeline](https://github.com/leovtavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/leovtavares/portfolio-qa/actions)
 [![K6](https://img.shields.io/badge/K6-7D64FF?logo=k6&logoColor=white)](https://k6.io/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/)
 
@@ -49,7 +49,7 @@ k6 run restful-booker/tests/load_test.js
 <a id="english"></a>
 # K6 Load Testing Portfolio
 
-[![CI/CD Pipeline](https://github.com/realleotavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/realleotavares/portfolio-qa/actions)
+[![CI/CD Pipeline](https://github.com/leovtavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/leovtavares/portfolio-qa/actions)
 [![K6](https://img.shields.io/badge/K6-7D64FF?logo=k6&logoColor=white)](https://k6.io/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/)
 
@@ -95,7 +95,7 @@ k6 run restful-booker/tests/load_test.js
 <a id="español"></a>
 # Portafolio de Pruebas de Carga con K6
 
-[![CI/CD Pipeline](https://github.com/realleotavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/realleotavares/portfolio-qa/actions)
+[![CI/CD Pipeline](https://github.com/leovtavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/leovtavares/portfolio-qa/actions)
 [![K6](https://img.shields.io/badge/K6-7D64FF?logo=k6&logoColor=white)](https://k6.io/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/)
 

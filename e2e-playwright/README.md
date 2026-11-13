@@ -3,7 +3,7 @@
 <a id="português"></a>
 # Portfólio de Automação E2E com Playwright
 
-[![CI/CD Pipeline](https://github.com/realleotavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/realleotavares/portfolio-qa/actions)
+[![CI/CD Pipeline](https://github.com/leovtavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/leovtavares/portfolio-qa/actions)
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)](https://playwright.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
@@ -61,7 +61,7 @@ npx playwright show-report
 <a id="english"></a>
 # Playwright E2E Automation Portfolio
 
-[![CI/CD Pipeline](https://github.com/realleotavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/realleotavares/portfolio-qa/actions)
+[![CI/CD Pipeline](https://github.com/leovtavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/leovtavares/portfolio-qa/actions)
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)](https://playwright.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
@@ -119,7 +119,7 @@ npx playwright show-report
 <a id="español"></a>
 # Portafolio de Automatización E2E con Playwright
 
-[![CI/CD Pipeline](https://github.com/realleotavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/realleotavares/portfolio-qa/actions)
+[![CI/CD Pipeline](https://github.com/leovtavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/leovtavares/portfolio-qa/actions)
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)](https://playwright.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 

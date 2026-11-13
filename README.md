@@ -3,7 +3,7 @@
 <a id="português"></a>
 # Portfólio de Automação de QA e Engenharia
 
-[![CI/CD Pipeline](https://github.com/realleotavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/realleotavares/portfolio-qa/actions)
+[![CI/CD Pipeline](https://github.com/leovtavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/leovtavares/portfolio-qa/actions)
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)](https://playwright.dev/)
 [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)](https://docs.pytest.org/)
 [![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?logo=robotframework&logoColor=white)](https://robotframework.org/)
@@ -95,7 +95,7 @@ Este monorepo é governado por uma pipeline unificada via GitHub Actions (`.gith
 
 ## Visualização Online
 
-> **[Acesse o Hub Central de Relatórios (Live Reports)](https://realleotavares.github.io/portfolio-qa/)** para visualizar as métricas, traces e logs da última execução da pipeline.
+> **[Acesse o Hub Central de Relatórios (Live Reports)](https://leovtavares.github.io/portfolio-qa/)** para visualizar as métricas, traces e logs da última execução da pipeline.
 
 ---
 
@@ -108,7 +108,7 @@ Este monorepo é governado por uma pipeline unificada via GitHub Actions (`.gith
 <a id="english"></a>
 # QA & Engineering Automation Portfolio
 
-[![CI/CD Pipeline](https://github.com/realleotavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/realleotavares/portfolio-qa/actions)
+[![CI/CD Pipeline](https://github.com/leovtavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/leovtavares/portfolio-qa/actions)
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)](https://playwright.dev/)
 [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)](https://docs.pytest.org/)
 [![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?logo=robotframework&logoColor=white)](https://robotframework.org/)
@@ -200,7 +200,7 @@ This monorepo is governed by a unified GitHub Actions pipeline (`.github/workflo
 
 ## Online Visualization
 
-> **[Access the QA Reports Hub (Live Reports)](https://realleotavares.github.io/portfolio-qa/)** to view metrics, traces, and logs from the latest pipeline execution.
+> **[Access the QA Reports Hub (Live Reports)](https://leovtavares.github.io/portfolio-qa/)** to view metrics, traces, and logs from the latest pipeline execution.
 
 ---
 
@@ -213,7 +213,7 @@ This monorepo is governed by a unified GitHub Actions pipeline (`.github/workflo
 <a id="español"></a>
 # Portafolio de Automatización de QA e Ingeniería
 
-[![CI/CD Pipeline](https://github.com/realleotavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/realleotavares/portfolio-qa/actions)
+[![CI/CD Pipeline](https://github.com/leovtavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/leovtavares/portfolio-qa/actions)
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)](https://playwright.dev/)
 [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)](https://docs.pytest.org/)
 [![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?logo=robotframework&logoColor=white)](https://robotframework.org/)
@@ -305,7 +305,7 @@ Este monorepo es gobernado por un pipeline unificado mediante GitHub Actions (`.
 
 ## Visualización Online
 
-> **[Acceda al Centro de Reportes de QA (Live Reports)](https://realleotavares.github.io/portfolio-qa/)** para visualizar métricas, traces y registros de la última ejecución del pipeline.
+> **[Acceda al Centro de Reportes de QA (Live Reports)](https://leovtavares.github.io/portfolio-qa/)** para visualizar métricas, traces y registros de la última ejecución del pipeline.
 
 ---
 

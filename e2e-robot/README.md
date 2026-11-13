@@ -3,7 +3,7 @@
 <a id="português"></a>
 # Portfólio de Automação UI BDD com Robot Framework
 
-[![CI/CD Pipeline](https://github.com/realleotavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/realleotavares/portfolio-qa/actions)
+[![CI/CD Pipeline](https://github.com/leovtavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/leovtavares/portfolio-qa/actions)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?logo=robotframework&logoColor=white)](https://robotframework.org/)
 
@@ -57,7 +57,7 @@ robot saucedemo/tests/
 <a id="english"></a>
 # Robot Framework BDD UI Automation Portfolio
 
-[![CI/CD Pipeline](https://github.com/realleotavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/realleotavares/portfolio-qa/actions)
+[![CI/CD Pipeline](https://github.com/leovtavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/leovtavares/portfolio-qa/actions)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?logo=robotframework&logoColor=white)](https://robotframework.org/)
 
@@ -111,7 +111,7 @@ robot saucedemo/tests/
 <a id="español"></a>
 # Portafolio de Automatización UI BDD con Robot Framework
 
-[![CI/CD Pipeline](https://github.com/realleotavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/realleotavares/portfolio-qa/actions)
+[![CI/CD Pipeline](https://github.com/leovtavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/leovtavares/portfolio-qa/actions)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?logo=robotframework&logoColor=white)](https://robotframework.org/)
 

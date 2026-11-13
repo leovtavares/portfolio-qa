@@ -3,7 +3,7 @@
 <a id="português"></a>
 # Portfólio de Automação de API com Pytest
 
-[![CI/CD Pipeline](https://github.com/realleotavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/realleotavares/portfolio-qa/actions)
+[![CI/CD Pipeline](https://github.com/leovtavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/leovtavares/portfolio-qa/actions)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)](https://docs.pytest.org/)
 
@@ -54,7 +54,7 @@ pytest restful-booker/tests/ -v
 <a id="english"></a>
 # Pytest API Automation Portfolio
 
-[![CI/CD Pipeline](https://github.com/realleotavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/realleotavares/portfolio-qa/actions)
+[![CI/CD Pipeline](https://github.com/leovtavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/leovtavares/portfolio-qa/actions)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)](https://docs.pytest.org/)
 
@@ -105,7 +105,7 @@ pytest restful-booker/tests/ -v
 <a id="español"></a>
 # Portafolio de Automatización de API con Pytest
 
-[![CI/CD Pipeline](https://github.com/realleotavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/realleotavares/portfolio-qa/actions)
+[![CI/CD Pipeline](https://github.com/leovtavares/portfolio-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/leovtavares/portfolio-qa/actions)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)](https://docs.pytest.org/)
 
